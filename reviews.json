@@ -1,0 +1,44 @@
+[
+    {
+        "rating": 2.5,
+        "date": 1427241600,
+        "review_text": "<p>I had great expectations considering everyone kept saying this was the best restaurant in SF. Honestly, this place is good but it's not amazing.  The 90s decor is odd and off-putting.</p><p>I had the 3 course dinner for $69. The best part of this option is that you can get whatever you want!  You can get 3 desserts, 3 appetizers, 3 meat entrees - the possibilities are endless!</p><p>I had the glazed oysters with caviar, the quail stuffed with foie gras, and the cheese. None of the food stood out, but the service was top notch. Also, a nice touch were the intermezzo small dishes served between entrees.</p>",
+        "user": {
+            "avatar_url": "http://www.placebear.com/60/60",
+            "name": "April J",
+            "profile_url": "http://google.com",
+            "location": "Los Angeles, CA",
+            "review_count": 912,
+            "friend_count": 2361,
+            "elite_year": "2015"
+        }
+    },
+    {
+        "rating": 4,
+        "date": 1421020800,
+        "review_text": "<p>After a full day of early drinking and &ldquo;running&rdquo; for Bay to Breakers 2012, the only obvious choice for dinner before my flight home was to eat at Gary Danko. It was already a day of excess so why not add more excess, in the form or foie gras, to dinner as well.</p><p>Did not have reservation but arrived shortly after they opened to grab at seat at the bar. In a way, bar seating is actually better because unlike the regular tables, you aren’t forced to choose a 3-4-5 course meal, you can go a la carte. I went for the 3 course and each was just as heavenly as the next.</p>",
+        "user": {
+            "avatar_url": "http://www.placebear.com/60/60",
+            "name": "April J",
+            "profile_url": "http://google.com",
+            "location": "Los Angeles, CA",
+            "review_count": 45,
+            "friend_count": 10,
+            "elite_year": ""
+        }
+    },
+    {
+        "rating": 2,
+        "date": 1424390400,
+        "review_text": "<p>Can’t decide between 4 or 5 stars. I came here a year ago for my birthday and thought it was great, easily a 5 star review. I came here recently with my girlfriend for our anniversary dinner. Food was great, but unfortunately not spectacular from when I went for my first time.</p>",
+        "user": {
+            "avatar_url": "http://www.placebear.com/60/60",
+            "name": "Diana Y",
+            "profile_url": "http://google.com",
+            "location": "Mountain View, CA",
+            "review_count": 79,
+            "friend_count": 146,
+            "elite_year": ""
+        }
+    }
+]
