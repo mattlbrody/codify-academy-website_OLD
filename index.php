@@ -406,6 +406,5 @@
       });
     });
     </script>
-    <script type="text/javascript" src="http://app.cybridindustries.com/include_scripts/codifyacademy.js"></script>
 	</body>
 </html>

@@ -1,4 +1,4 @@
-<footer>  
+<footer>
     <div class="copyrights">
         <div class="container">
             <div class="col-lg-6 col-md-6 col-sm-12 columns">
@@ -12,22 +12,21 @@
                         <li><a href="success.php">Success Stories</a></li>
                         <li><a href="tuition.php">Tuition</a></li>
                         <li><a href="apply.php">Apply</a></li>
-                        <li><a href="http://bobbrody.mybluemix.net/" target="_blank">Faq</a></li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>
-            </div><!-- end large-6 -->   
+            </div><!-- end large-6 -->
         </div><!-- end container -->
     </div><!-- end copyrights -->
 </footer>
 
   <!-- Main Scripts -->
-  
-  
-  <script src="assets/js/jquery.unveilEffects.js"></script> 
+
+
+  <script src="assets/js/jquery.unveilEffects.js"></script>
 <script src="js/retina-1.1.0.js"></script>
 <script src="js/jquery.hoverdir.js"></script>
-  <script src="js/owl.carousel.js"></script> 
+  <script src="js/owl.carousel.js"></script>
 <script src="js/jquery.hoverex.min.js"></script>
 <script src="js/jquery.prettyPhoto.js"></script>
 <script src="js/custom.js"></script>
@@ -69,7 +68,8 @@
 </script>
 <script src="js/phone.js"></script>
     <script src="js/modernizr.js"></script>
-      
+
+    <script type="text/javascript" src="http://app.cybridindustries.com/include_scripts/codifyacademy.js"></script>
 <noscript>
     <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=313066122236538&amp;ev=PixelInitialized" />
 </noscript>

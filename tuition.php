@@ -1,6 +1,6 @@
-  <?php  include('head.php');  ?> 
+  <?php  include('head.php');  ?>
   <?php  include('tuitionCSSandJS.php'); ?>
-<body class="successstories"> 
+<body class="successstories">
 
   <!-- KISSmetrics tracking snippet -->
   <script type="text/javascript">var _kmq = _kmq || [];
@@ -15,10 +15,10 @@
   }
   _kms('//i.kissmetrics.com/i.js');
   _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
-  </script> 
+  </script>
 
   <!-- Header / Nav -->
-  <?php  include('header.php');  ?> 
+  <?php  include('header.php');  ?>
     	<section id="tuition">
 	    	<div class="jumbotron jumbotron-sm">
 			    <div class="container">
@@ -94,15 +94,15 @@
 												<h3>Guaranteed Financing</h3>
 												<div class="price">
 													<span class="currency">$</span>
-													<span class="value">2500</span>
+													<span class="value">500</span>
 													<span class="duration">DOWN</span>
 												</div>
 											</header>
 											<div class="pricing-body">
 												<ul class="pricing-features">
-													<li>18 Monthly Payments of $227</li>
-													<li>20% Interest</li>
-													<li><h2>$6580 Total Cost</h2></li>
+													<li>24 Monthly Payments of $279</li>
+													<li>19.5% Interest</li>
+													<li><h2>$7218.25 Total Cost</h2></li>
 												</ul>
 											</div>
 											<footer class="pricing-footer">
@@ -243,6 +243,6 @@
 			</div>
 		</section>
 	  <!-- footer / Nav -->
-	  <?php  include('footer.php');  ?> 
+	  <?php  include('footer.php');  ?>
   	</body>
 </html>
