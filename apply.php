@@ -1,5 +1,5 @@
-<?php  include('head.php');  ?> 
-  
+<?php  include('head.php');  ?>
+
 <body>
 
   <!-- KISSmetrics tracking snippet -->
@@ -15,10 +15,10 @@
   }
   _kms('//i.kissmetrics.com/i.js');
   _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
-  </script> 
-  
-  <?php  include('social.php');  ?> 
-  <?php  include('header.php');  ?> 
+  </script>
+
+  <?php  include('social.php');  ?>
+  <?php  include('header.php');  ?>
 
   <div class="jumbotron jumbotron-sm">
     <div class="container">
@@ -45,7 +45,7 @@
   <hr> -->
 
   <div class="container rowwidth">
-    <form accept-charset="UTF-8" action="https://formkeep.com/f/618ef2a75979" method="POST">
+    <form class="cybrid-form" accept-charset="UTF-8" action="https://formkeep.com/f/618ef2a75979" method="POST">
       <div class="row">
           <h4 style="font-weight:bold; font-style:italic;">Admissions for classes are done on a rolling basis, so the earlier you apply, the better.</h4>
       </div>
@@ -54,14 +54,14 @@
       <div class="row">
           <h2>Basic Information</h2>
           <label>*Full Name:</label>
-          <input required type="text" name="Full Name" class="formfield form-control">
+          <input required type="text" name="Full Name" class="cybrid-form-name formfield form-control">
 
           <label>*Email:</label>
-          <input required type="email" name="Email" class="formfield form-control">
+          <input required type="email" name="Email" class="cybrid-form-email formfield form-control">
           <br>
 
           <label>*Phone Number:</label>
-          <input required type="text" name="Phone Number"class="formfield form-control">
+          <input required type="text" name="Phone Number"class="cybrid-form-phone formfield form-control">
       </div>
 
       <!-- CITY -->
@@ -73,7 +73,7 @@
       </div> -->
 
       <!-- Application Questions -->
-      <div class="row"> 
+      <div class="row">
         <h2> Application Questions</h2>
         <label>Why are you applying to Codify Academy?</label>
         <textarea name="Why Apply?" class="formfield1 form-control"></textarea>
@@ -91,11 +91,11 @@
 
       <div class="row">
         <input type="hidden" name="utf8" value="✓">
-        <button class="button large" type="submit">Submit Application</button>
+        <button class="cybrid-form-submit button large" type="submit">Submit Application</button>
       </div>
     </form>
   </div>
- 
+
   <?php include('footer.php');?>
 
 </body>

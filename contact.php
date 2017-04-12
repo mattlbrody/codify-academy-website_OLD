@@ -1,6 +1,6 @@
-  <?php  include('head.php');  ?> 
-  
-<body>  
+  <?php  include('head.php');  ?>
+
+<body>
 
   <!-- KISSmetrics tracking snippet -->
   <script type="text/javascript">var _kmq = _kmq || [];
@@ -15,11 +15,11 @@
   }
   _kms('//i.kissmetrics.com/i.js');
   _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
-  </script> 
+  </script>
 
   <!-- Header / Nav -->
-  <?php  include('header.php');  ?> 
-  
+  <?php  include('header.php');  ?>
+
   <div class="jumbotron jumbotron-sm">
     <div class="container">
         <div class="row">
@@ -76,11 +76,11 @@
                 535 Mission st.<br>
                 San Francisco, CA 94105 <br>
                 <a href="tel:4159803589"><i class="fa fa-phone"></i> (415) 980-3589</a>
-            </address>  
+            </address>
             <address>
                 <strong>Sam Brody - Admissions Mentor</strong><br>
                 <a href="mailto:sambrody@codifyacademy.com">sambrody@codifyacademy.com</a>
-            </address>            
+            </address>
             <address>
                 <strong>Matt Brody - Student Mentor</strong><br>
                 <a href="mailto:mattbrody@codifyacademy.com">mattbrody@codifyacademy.com</a>

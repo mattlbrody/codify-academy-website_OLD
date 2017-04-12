@@ -226,16 +226,16 @@
 				<div class="servicebox text-center">
 					<div class="service-icon">
 						<div class="dm-icon-effect-1">
-              <form id="homeform" method="post" action="https://formkeep.com/f/2bcf6d08341c">
+              <form id="homeform" method="post" class="cybrid-form " action="https://formkeep.com/f/2bcf6d08341c">
                 <div class="row">
                   <h2 id="basicinfo">Apply Now</h2>
-                  <input placeholder="Full Name" required type="text" name="fullname" class="formfield form-control homepage"><br>
-                  <input placeholder="Email" required type="email" name="email" class="formfield form-control homepage"><br>
-                  <input placeholder="Phone Number" required type="text" name="phonenumber"class="formfield form-control homepage"><br>
+                  <input placeholder="Full Name" required type="text" name="fullname" class="formfield form-control homepage cybrid-form-name"><br>
+                  <input placeholder="Email" required type="email" name="email" class="cybrid-form-email formfield form-control homepage"><br>
+                  <input placeholder="Phone Number" required type="text" name="phonenumber"class="cybrid-form-phone formfield form-control homepage"><br>
                   <input type="hidden" name="utf8" value="✓">
                 </div>
                 <div class="applybutton">
-                  <button id="submithome" name="Apply" type="submit" class="button large">Submit for Info</button>
+                  <button id="submithome" name="Apply" type="submit" class="cybrid-form-submit button large">Submit for Info</button>
                 </div>
               </form>
 						</div>
