@@ -1,0 +1,94 @@
+<div id="pika">
+  <div id="load">
+  <div>G</div>
+  <div>N</div>
+  <div>I</div>
+  <div>D</div>
+  <div>A</div>
+  <div>O</div>
+  <div>L</div>
+</div>
+</div>
+
+<div id="loading">
+  <div class="jumbotron jumbotron-sm">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-lg-12">
+                <h1 class="h1 h1course">Congratulations!</h1>
+            </div>
+        </div>
+    </div>
+  </div>
+
+  <div class="container rowwidth">
+    <div class="row">
+      <div class="congrats" style="text-align:center">
+        <h4>You've qualified for $6,000 in guaranteed financing :)</h4>
+        <br>
+        <h4>The next step is to schedule a quick meeting with our admissions team</h4>
+        <br>
+        <h4>Call us directly at this number: <a href="tel:555-555-5555">555-555-4555</a><h4>
+        <h4>or</h4>
+        <h4>Schedule an appointment <a href="http://codifyacademy.com">here</a><h4>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+$(function(){
+  setTimeout(function(){
+      $("#loading").fadeIn();
+      $("#pika").fadeOut();
+  }, 5000);
+
+});
+</script>
+
+<script>
+$(".loading").height($(window).height());
+$(".loading").width($(window).width());
+
+
+$(".loading img").css({
+    paddingTop: ($(".loading").height() - $(".loading img").height()) / 2,
+    paddingLeft: ($(".loading").width() - $(".loading img").width()) / 2
+});
+
+$(window).resize(function () {
+
+    "use strict";
+
+    $(".loading").height($(window).height());
+    $(".loading").width($(window).width());
+
+
+    $(".loading img").css({
+        paddingTop: ($(".loading").height() - $(".loading img").height()) / 2,
+        paddingLeft: ($(".loading").width() - $(".loading img").width()) / 2
+    });
+
+});
+
+$(window).mousemove(function (e) {
+
+    "use strict";
+
+    $(".original").css({
+        left: e.pageX - 16,
+        top: e.pageY - 16
+    });
+
+});
+
+$("body").on("click", function (e) {
+
+    "use strict";
+
+    $(".original").clone(true).appendTo("body").css({
+        left: e.pageX - 16,
+        top: e.pageY - 16
+    }).removeClass("original");
+
+});
+</script>

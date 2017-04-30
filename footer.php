@@ -69,7 +69,7 @@
 <script src="js/phone.js"></script>
     <script src="js/modernizr.js"></script>
 
-    <script type="text/javascript" src="http://app.cybridindustries.com/include_scripts/codifyacademy.js"></script>
+    <script type="text/javascript" src="https://app.cybridindustries.com/include_scripts/codifyacademy.js"></script>
 <noscript>
     <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=313066122236538&amp;ev=PixelInitialized" />
 </noscript>

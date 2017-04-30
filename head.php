@@ -8,10 +8,10 @@
     <meta name="keywords" content="Learn to code, Learn Code, Part-time Coding, Coding with a Mentor, Mentor Coding, Coding Bootcamp Part Time">
     <meta name="author" content="Codify Academy">
     <link rel="shortcut icon" href="http://www.codifyacademy.com/favicon.ico?v=2" />
-      
+
     <!-- Google Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,300,700' rel='stylesheet' type='text/css'> 
-    
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,300,700' rel='stylesheet' type='text/css'>
+
     <!-- Font Awesome -->
     <link rel="stylesheet" href="css/font-awesome.css">
     <!-- Bootstrap -->
@@ -20,11 +20,11 @@
     <link rel="stylesheet" href="css/animate.css">
     <!-- Template Styles -->
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/colors/turquoise.css">    
+    <link rel="stylesheet" href="css/colors/turquoise.css">
     <!-- Layer Slider -->
     <link rel="stylesheet" href="layerslider/css/layerslider.css" >
 
-  
+
     <!-- Support for HTML5 -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -34,18 +34,18 @@
     <!--[if lt IE 9]>
       <script src="assets/js/respond.min.js"></script>
     <![endif]-->
-    
+
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script>
-      setTimeout(function(){ 
+      setTimeout(function(){
         $(document).ready(function(){
           $('#myModal').modal('show');
         });
       }, 7000);
-      
+
     </script>
-    <script src="js/jetmenu.js"></script> 
+    <script src="js/jetmenu.js"></script>
     <script src="js/phone.js"></script>
     <script src="js/modernizr.js"></script>
     <!-- google analytics -->
@@ -89,6 +89,12 @@
 		window._fbq.push(['track', '6030395363989', {'value':'0.01','currency':'USD'}]);
 		</script>
 		<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6030395363989&amp;cd[value]=0.01&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
+    
+    <!-- Include the core AngularJS library -->
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js"></script>
+
+    <!-- Include the AngularJS routing library -->
+    <script src="https://code.angularjs.org/1.2.28/angular-route.min.js"></script>
   </head>
   <!--   <div class="topbar clearfix">
     <div class="container">
