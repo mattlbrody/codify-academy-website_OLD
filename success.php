@@ -1,6 +1,10 @@
-  <?php  include('head.php');  ?> 
-  
-<body class="successstories">  
+  <?php  include('head.php');  ?>
+
+<body class="successstories">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHFWQQX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) --> 
 
 	<!-- KISSmetrics tracking snippet -->
 	  <script type="text/javascript">var _kmq = _kmq || [];
@@ -15,12 +19,12 @@
 	  }
 	  _kms('//i.kissmetrics.com/i.js');
 	  _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
-	  </script> 
+	  </script>
 
   <!-- social media link -->
-  <?php  include('social.php');  ?> 
+  <?php  include('social.php');  ?>
   <!-- Header / Nav -->
-  <?php  include('header.php');  ?> 
+  <?php  include('header.php');  ?>
 	    	<div class="jumbotron jumbotron-sm">
 			    <div class="container">
 			        <div class="row">
@@ -31,7 +35,7 @@
 			    </div>
 			</div>
 
-				
+
 
 			<div class="container studentreviewright toptest">
 				<br>
@@ -149,7 +153,7 @@
 
 			<div class="container studentreviewright">
 		  		<div class="row">
-					<div class="col-md-3 col-md-offset-2 animated studentprofile">							
+					<div class="col-md-3 col-md-offset-2 animated studentprofile">
 						<h2>Gerardo Morillo</h2>
 						<div class="studentimage">
 							<img class="student" src="img/jerry.jpg">
@@ -399,6 +403,6 @@
 				</div>
 			</div>
 
-	  <?php  include('footer.php');  ?> 
+	  <?php  include('footer.php');  ?>
   	</body>
 </html>

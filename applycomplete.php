@@ -1,6 +1,10 @@
-<?php  include('head.php');  ?> 
-  
+<?php  include('head.php');  ?>
+
 <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHFWQQX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
   <!-- KISSmetrics tracking snippet -->
   <script type="text/javascript">var _kmq = _kmq || [];
@@ -15,10 +19,10 @@
   }
   _kms('//i.kissmetrics.com/i.js');
   _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
-  </script> 
-  
-  <?php  include('social.php');  ?> 
-  <?php  include('header.php');  ?> 
+  </script>
+
+  <?php  include('social.php');  ?>
+  <?php  include('header.php');  ?>
 
   <div class="jumbotron jumbotron-sm">
     <div class="container">
@@ -73,7 +77,7 @@
       </div> -->
 
       <!-- Application Questions -->
-      <div class="row"> 
+      <div class="row">
         <h2> Application Questions</h2>
         <label>Why are you applying to Codify Academy?</label>
         <textarea name="Why Apply?" class="formfield1 form-control"></textarea>
@@ -95,7 +99,7 @@
       </div>
     </form>
   </div>
- 
+
   <?php include('footer.php');?>
 
 </body>

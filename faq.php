@@ -1,6 +1,10 @@
-  <?php  include('head.php');  ?> 
-  
-<body class="successstories">  
+  <?php  include('head.php');  ?>
+
+<body class="successstories">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHFWQQX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
   <!-- KISSmetrics tracking snippet -->
   <script type="text/javascript">var _kmq = _kmq || [];
@@ -15,12 +19,12 @@
   }
   _kms('//i.kissmetrics.com/i.js');
   _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
-  </script> 
+  </script>
 
   <!-- social media link -->
-  <?php  include('social.php');  ?> 
+  <?php  include('social.php');  ?>
   <!-- Header / Nav -->
-  <?php  include('header.php');  ?> 
+  <?php  include('header.php');  ?>
 
   <div class="jumbotron jumbotron-sm">
     <div class="container">
@@ -165,7 +169,7 @@
                 Tuition is currently $7000.
               </div>
             </div>
-          </div>          
+          </div>
           <div class="panel panel-default">
             <div class="panel-heading">
               <h4 class="panel-title">
@@ -182,7 +186,7 @@
           </div>
         </div>
 
-     
+
         <br>
         <br>
     </div>
@@ -190,6 +194,6 @@
   </div>
 
   <?php include('footer.php');?>
-    
+
 </body>
 </html>

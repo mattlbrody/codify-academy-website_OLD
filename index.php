@@ -1,7 +1,11 @@
   <?php  include('head.php');  ?>
 
 <body>
-
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHFWQQX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
   <!-- KISSmetrics tracking snippet -->
   <script type="text/javascript">var _kmq = _kmq || [];
   var _kmk = _kmk || '9c27c877479ebee6d9bdc811c10d0918d4dda8c0';

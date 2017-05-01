@@ -1,6 +1,10 @@
-  <?php  include('head.php');  ?> 
-  
-<body>  
+  <?php  include('head.php');  ?>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHFWQQX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
   <!-- KISSmetrics tracking snippet -->
   <script type="text/javascript">var _kmq = _kmq || [];
@@ -15,12 +19,12 @@
   }
   _kms('//i.kissmetrics.com/i.js');
   _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
-  </script> 
-  
+  </script>
+
   <!-- social media link -->
-  <?php  include('social.php');  ?> 
+  <?php  include('social.php');  ?>
   <!-- Header / Nav -->
-  <?php  include('header.php');  ?> 
+  <?php  include('header.php');  ?>
 
 	<section class="slideshow-wrapper">
 		<div id="slider-wrapper">
@@ -39,11 +43,11 @@
           color:#ffffff;
           background:#1abc9c;
           border-radius:0;
-          white-space: nowrap;" 
+          white-space: nowrap;"
           data-ls="durationin:1500;delayin:300;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">
           BECOME A DEVELOPER IN 16 WEEKS
           </p>
-          
+
           <p class="ls-l secondp" style="
           top:220px;
           left:100px;
@@ -53,7 +57,7 @@
 					color:#ffffff;
           border-left:5px solid #1abc9c;
 					padding:10px 10px 6px 10px;
-          white-space: nowrap;" 
+          white-space: nowrap;"
           data-ls="offsetxin:0;durationin:1500;delayin:700;rotateyin:90;skewxin:60;transformoriginin:25% 50% 0;offsetxout:100;durationout:750;skewxout:60;">
           GET HIRED WITH THE HELP OF A MENTOR
           </p>
@@ -63,7 +67,7 @@
           left:100px;
           font-size:30px;
           font-weight: bold !important;
-          padding:12px 10px 5px 10px;" 
+          padding:12px 10px 5px 10px;"
           data-ls="offsetxin:0;durationin:1500;delayin:1100;rotateyin:180;skewxin:60;transformoriginin:25% 50% 0;offsetxout:180;durationout:750;skewxout:60;">
           SCHEDULE CALL
           </a>
@@ -157,7 +161,7 @@
     </div>
   </section>
 
-  
+
 
   <section class="mobileform">
     <div class="container-fluid">
@@ -177,20 +181,20 @@
       </div>
     </div>
   </section><!-- end section -->
-    
+
   <section class="section1 basicinfo">
-	  <div class="container">           
+	  <div class="container">
     	<div class="col-md-4 col-sm-5 col-md-offset-2 col-sm-offset-1">
 				<div class="servicebox text-center">
 					<div class="service-icon">
 						<div class="dm-icon-effect-1">
 							<h3 style="text-align:left; line-height:35px;font-size:20px">Our part-time program allows you to keep working while you're heading for that new developer job.<br><br>Our industry mentors guide you through the job hunting process and show you how to land your dream job.<br><br>Codify Academy teaches the skills needed to get hired as a full-time web developer in only 16 weeks.</h3>
 						</div>
-						
+
 					</div><!-- service-icon -->
 				</div><!-- servicebox -->
     	</div><!-- large-4 -->
-        
+
     	<div class="col-md-3 col-sm-4 col-md-offset-1 col-sm-offset-1">
 				<div class="servicebox text-center">
 					<div class="service-icon">
@@ -214,7 +218,7 @@
         	</div><!-- large-4 -->
     </div><!-- end container -->
 	</section><!-- end section -->
-    
+
   <section class="section5 morebasicinfo">
   	<div class="container">
     	<div class="col-lg-6 col-md-6 col-sm-12 columns textconsole">
@@ -243,7 +247,7 @@
                 </div>
                 <p>We currently offer weekend classes, so you can still work full time while learning how to program and planning your next big career move.</p>
               </div>
-            </div><!-- services_lists_boxes -->                    
+            </div><!-- services_lists_boxes -->
           	<div class="services_lists_boxes clearfix">
             	<div class="col-lg-3 col-md-3 col-sm-12">
                 <div class="services_lists_boxes_icon">
@@ -257,7 +261,7 @@
                 </div>
                 <p>During the 16 week course, you'll be building a complete portfolio that will give your resume a huge boost when your job searching.</p>
               </div>
-            </div><!-- services_lists_boxes -->                                     
+            </div><!-- services_lists_boxes -->
           	<div class="services_lists_boxes clearfix">
             	<div class="col-lg-3 col-md-3 col-sm-12">
                 <div class="services_lists_boxes_icon_none">
@@ -281,7 +285,7 @@
   <section class="">
     <div class="container">
       <div class="row">
-      <div 
+      <div
       </div>
     </div>
   </section>
@@ -295,9 +299,9 @@
       </div><!-- end message -->
     </div><!-- end container -->
   </section><!-- end section2 -->
-   
-  
-        
+
+
+
   <!-- <div class="copyrights">
     <div class="container">
       <div class="col-lg-6 col-md-6 col-sm-12 columns">
@@ -326,11 +330,11 @@
             </li>
           </ul>
         </div>
-      </div> 
+      </div>
     </div>
   </div>-->
 
-  <?php  include('footer.php');  ?> 
+  <?php  include('footer.php');  ?>
 	<script>
 		jQuery("#layerslider").layerSlider({
 			pauseOnHover: false,

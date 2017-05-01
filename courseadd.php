@@ -8,17 +8,17 @@
   <meta name="keywords" content="">
   <meta name="author" content="">
   <link rel="shortcut icon" href="http://www.codifyacademy.com/favicon.ico?v=2" />
-    
+
   <!-- Google Fonts -->
-  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,300,700' rel='stylesheet' type='text/css'> 
-  
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,300,700' rel='stylesheet' type='text/css'>
+
   <!-- Font Awesome -->
   <link rel="stylesheet" href="css/font-awesome.css">
   <!-- Bootstrap -->
   <link href="assets/css/bootstrap.css" rel="stylesheet">
   <!-- Template Styles -->
   <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/colors/turquoise.css">    
+  <link rel="stylesheet" href="css/colors/turquoise.css">
   <!-- Layer Slider -->
   <link rel="stylesheet" href="layerslider/css/layerslider.css" type="text/css">
   <style type="text/css">
@@ -29,7 +29,7 @@
       background-color:rgba(119,119,119, 0.1);
     }
   </style>
-  
+
   <!-- Support for HTML5 -->
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -54,7 +54,7 @@
   }
   _kms('//i.kissmetrics.com/i.js');
   _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
-  </script> 
+  </script>
     <!-- google analytics -->
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -82,9 +82,14 @@
   </div> -->
 
   <!-- Header / Nav -->
-  <?php  include('header.php');  ?> 
+  <?php  include('header.php');  ?>
 
-<body>  
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHFWQQX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
 <div class="jumbotron jumbotron-sm">
     <div class="container">
         <div class="row">
@@ -130,7 +135,7 @@
               <div class="panel panel-default">
                   <div class="panel-heading">
                     <h4 class="panel-title">
-                      <div data-toggle="collapse" data-parent="#accordion">  
+                      <div data-toggle="collapse" data-parent="#accordion">
                         <h3 style="color:#464646;">Course Overview<span style="font-size:.5em; margin-left:3%;">16 weeks long, 10-15 hours per week, weekend classes</span></h3>
                           <h4 style="color:#7D6E74;">3 hours per week in the classroom, devoted to projects and your portfolio.</h4>
                           <h4 style="color:#7D6E74;">10-15 hour per week of hands on directed learning outside of the class.</h4>
@@ -144,7 +149,7 @@
                   <div class="panel-heading">
                     <h4 class="panel-title">
                       <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="">
-                        <i class="fa fa-html5"></i><i class="fa fa-css3"></i>   
+                        <i class="fa fa-html5"></i><i class="fa fa-css3"></i>
                         <h3 style="color:#464646;">Unit 1<span style="font-size:.5em; margin-left:3%;">4 weeks</span></h3>
                         <h1 style="color:#1ABC9C;">HTML5 &amp; CSS3</h1>
                         <h4 style="color:#7D6E74;">Build web pages with HTML5 and style them with CSS3</h4>
@@ -166,13 +171,13 @@
                           </div>
                           <div class="col-md-5 col-md-offset-1">
                               <h4 style="color:white; text-align:left;"><strong>A few Resources:</strong></h4>
-                              
+
                               <a target="_blank" href="http://www.codecademy.com/tracks/web"><h5 style="color:white; text-align:left;">Codecademy HTML &amp; CSS<i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></h5></a>
-                              
+
                               <a target="_blank" href="http://learn.shayhowe.com/html-css/"><h5 style="color:white; text-align:left;">Shaw How's Guide to HTML &amp; CSS <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></h5></a>
-                              
+
                               <a target="_blank" href="http://www.w3schools.com/html/default.asp"><h5 style="color:white; text-align:left;">W3Schools<i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></h5></a>
-                              
+
                               <a target="_blank" href="http://multimedia.journalism.berkeley.edu/tutorials/html/"><h5 style="color:white; text-align:left;">HTML 101<i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></h5></a>
                           </div>
                       </div>
@@ -183,7 +188,7 @@
                   <div class="panel-heading">
                     <h4 class="panel-title">
                       <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapsed">
-                        <i class="fa fa-code"></i><i class="fa fa-twitter"></i>   
+                        <i class="fa fa-code"></i><i class="fa fa-twitter"></i>
                         <h3 style="color:#464646;">Unit 2<span style="font-size:.5em; margin-left:3%;">3 weeks</span></h3>
                         <h1 style="color:#1ABC9C;">JQuery &amp; Twitter Bootstrap</h1>
                         <h4 style="color:#7D6E74;">Learn jQuery fundamentals to create interactive web sites</h4>
@@ -218,7 +223,7 @@
                   <div class="panel-heading">
                     <h4 class="panel-title">
                       <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="collapsed">
-                        <i class="fa fa-code"></i>   
+                        <i class="fa fa-code"></i>
                         <h3 style="color:#464646;">Unit 3<span style="font-size:.5em; margin-left:3%;">3 weeks</span></h3>
                         <h1 style="color:#1ABC9C;">JavaScript Fundamentals</h1>
                         <h4 style="color:#7D6E74;">Dive deeper into JavaScript and see just how powerful it is</h4>
@@ -253,7 +258,7 @@
                   <div class="panel-heading">
                     <h4 class="panel-title">
                       <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="collapsed">
-                        <i class="fa fa-code"></i>   
+                        <i class="fa fa-code"></i>
                         <h3 style="color:#464646;">Unit 4<span style="font-size:.5em; margin-left:3%;">2 weeks</span></h3>
                         <h1 style="color:#1ABC9C;">Advanced jQuery &amp; Ajax</h1>
                         <h4 style="color:#7D6E74;">Pull data from a server using AJAX and parse JSON responses</h4>
@@ -345,25 +350,25 @@
         </ul>
             </div>
         </div> -->
-        
- <footer>  
+
+ <footer>
     <div class="copyrights">
         <div class="container">
             <div class="col-lg-6 col-md-6 col-sm-12 columns">
                 <p>Copyright © 2014 - All rights reserved. Designed by <a title="Codify Academy" href="http://codifyacademy.com">Codify Academy</a></p>
             </div><!-- end widget -->
-              
+
         </div><!-- end container -->
     </div><!-- end copyrights -->
 
   <!-- Main Scripts-->
 <script src="assets/js/jquery.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
-  <script src="assets/js/jquery.unveilEffects.js"></script> 
+  <script src="assets/js/jquery.unveilEffects.js"></script>
 <script src="js/retina-1.1.0.js"></script>
 <script src="js/jquery.hoverdir.js"></script>
-  <script src="js/owl.carousel.js"></script>  
-  <script src="js/jetmenu.js"></script> 
+  <script src="js/owl.carousel.js"></script>
+  <script src="js/jetmenu.js"></script>
 <script src="js/jquery.hoverex.min.js"></script>
 <script src="js/jquery.prettyPhoto.js"></script>
 <script src="js/custom.js"></script>

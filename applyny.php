@@ -1,6 +1,10 @@
-<?php  include('head.php');  ?> 
-  
+<?php  include('head.php');  ?>
+
 <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHFWQQX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
   <!-- KISSmetrics tracking snippet -->
   <script type="text/javascript">var _kmq = _kmq || [];
@@ -15,10 +19,10 @@
   }
   _kms('//i.kissmetrics.com/i.js');
   _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
-  </script> 
+  </script>
 
-  <?php  include('header.php');  ?> 
-  <?php  include('social.php');  ?> 
+  <?php  include('header.php');  ?>
+  <?php  include('social.php');  ?>
 
   <div class="jumbotron jumbotron-sm">
     <div class="container">
@@ -93,7 +97,7 @@
       </div>
     </form>
   </div>
-        
+
   <?php include('footer.php');?>
 
 </body>

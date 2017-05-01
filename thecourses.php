@@ -1,5 +1,9 @@
-<?php  include('head.php');  ?> 
-  <body> 
+<?php  include('head.php');  ?>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHFWQQX"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <!-- KISSmetrics tracking snippet -->
     <script type="text/javascript">var _kmq = _kmq || [];
@@ -14,12 +18,12 @@
     }
     _kms('//i.kissmetrics.com/i.js');
     _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
-    </script> 
-   
+    </script>
+
     <!-- Header / Nav -->
-    <?php  include('header.php');  ?> 
+    <?php  include('header.php');  ?>
     <!-- social media link -->
-    <?php  include('social.php');  ?> 
+    <?php  include('social.php');  ?>
 
 
     <div class="jumbotron jumbotron-sm">
@@ -31,7 +35,7 @@
             </div>
         </div>
     </div>
-    
+
 
 <section class="section1 text-center">
   	<div class="container">
@@ -40,7 +44,7 @@
               <div class="panel panel-default">
                   <div class="panel-heading">
                     <div class="panel-title">
-                      <div data-toggle="collapse" data-parent="#accordion">  
+                      <div data-toggle="collapse" data-parent="#accordion">
                         <h3 class="courseOverview">Courses Overview</h3>
                         <h4>Small classes of 12 students</h4>
                         <h4>3 hours per week in the classroom devoted to hands on learning</h4>
@@ -81,16 +85,16 @@
                             </ul>
                           </div>
                           <div class="col-md-5 col-md-offset-1 resources">
-                            <h4><strong>Week 1 Sneak Peek:</strong></h4>                              
+                            <h4><strong>Week 1 Sneak Peek:</strong></h4>
                             <a target="_blank" href="https://www.youtube.com/watch?v=Nk-FndrwOxQ&list=PLvyX_84L7-lvtfaQnfZrlb7TAU9TZKsMP">
                               <h5>Our Week 1 Videos <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></h5>
-                            </a>                             
+                            </a>
                             <a target="_blank" href="http://codifyacademy.com/Chapter1.pdf">
                               <h5>Chapter 1 of our Book <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></h5>
                             </a>
                             <a target="_blank" href="http://codifyacademy.com/week1/advanced/">
                               <h5>Week 1 advanced Replica Project <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></h5>
-                            </a>                              
+                            </a>
                           </div>
                       </div>
                     </div>
@@ -157,23 +161,23 @@
                       <div class="row">
                           <div class="col-md-5 col-md-offset-1 dm-icon-effect-1 effect-slide-bottom in">
                           <h4><strong>Goals</strong></h4>
-                          <ul class="text-left">                              
+                          <ul class="text-left">
                             <li><h5>Find your first developer job before this course ends</h5></li>
                             <li><h5>We'll help you get your first developer job, but this is job training for all future jobs too</h5></li>
                             <li><h5>Walk away from this course with a powerful online presence that speaks volumns about what you're capable of</h5></li>
                           </ul>
                           </div>
                           <div class="col-md-5 col-md-offset-1 resources">
-                            <h4><strong>Job Placement Sneak Peek:</strong></h4>                              
+                            <h4><strong>Job Placement Sneak Peek:</strong></h4>
                             <a target="_blank" href="http://codifyacademy.com/CreatingYourCoverLetter.pdf">
                               <h5>Creating your Cover Letter <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></h5>
-                            </a>                             
+                            </a>
                             <a target="_blank" href="http://codifyacademy.com/HiringQAFromStudents.pdf">
                               <h5>Hiring Q&amp;A From Students <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></h5>
                             </a>
                             <a target="_blank" href="http://codifyacademy.com/JobRequirementsExplained.pdf">
                               <h5>Job Requirements Explained <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></h5>
-                            </a>                              
+                            </a>
                           </div>
                       </div>
                     </div>
@@ -188,7 +192,7 @@
 <br>
 
 <br>
-        
+
   <?php include('footer.php');?>
 
 </body>

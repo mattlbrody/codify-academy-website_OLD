@@ -1,7 +1,11 @@
-  <?php  include('head.php');  ?> 
-  
-<body>  
+  <?php  include('head.php');  ?>
 
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHFWQQX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
   <!-- KISSmetrics tracking snippet -->
   <script type="text/javascript">var _kmq = _kmq || [];
   var _kmk = _kmk || '9c27c877479ebee6d9bdc811c10d0918d4dda8c0';
@@ -15,10 +19,10 @@
   }
   _kms('//i.kissmetrics.com/i.js');
   _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
-  </script> 
+  </script>
 
   <!-- Header / Nav -->
-  <?php  include('header.php');  ?> 
+  <?php  include('header.php');  ?>
 
   <div class="jumbotron jumbotron-sm">
     <div class="container">
@@ -79,11 +83,11 @@
                 San Francisco, CA 94105 <br>
                 <a href="tel:4159803589"><i class="fa fa-phone"></i> (415) 980-3589</a>
             </address>
-            <address>  
+            <address>
             <address>
                 <strong>Sam Brody - Admissions Mentor</strong><br>
                 <a href="mailto:sambrody@codifyacademy.com">sambrody@codifyacademy.com</a>
-            </address>             
+            </address>
             <address>
                 <strong>Matt Brody - Student Mentor</strong><br>
                 <a href="mailto:mattbrody@codifyacademy.com">mattbrody@codifyacademy.com</a>
@@ -99,7 +103,7 @@
               <a href="https://twitter.com/CodifyAcad" target="_blank" title="Codify Academy - Twitter">
                 <i class="fa fa-twitter fa-3x"></i>
               </a>
-            </div>            
+            </div>
           </form>
         </div>
     </div>

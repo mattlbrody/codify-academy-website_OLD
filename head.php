@@ -34,6 +34,14 @@
     <!--[if lt IE 9]>
       <script src="assets/js/respond.min.js"></script>
     <![endif]-->
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KHFWQQX');</script>
+    <!-- End Google Tag Manager -->
 
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
@@ -89,7 +97,7 @@
 		window._fbq.push(['track', '6030395363989', {'value':'0.01','currency':'USD'}]);
 		</script>
 		<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6030395363989&amp;cd[value]=0.01&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
-    
+
     <!-- Include the core AngularJS library -->
     <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.5/angular.min.js"></script>
 
