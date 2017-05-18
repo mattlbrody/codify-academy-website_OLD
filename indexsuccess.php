@@ -171,7 +171,7 @@
             <h2 id="basicinfo">Fill Out to Learn More</h2>
             <input placeholder="Full Name" required type="text" name="fullname" class="formfield form-control homepage"><br>
             <input placeholder="Email" required type="email" name="email" class="formfield form-control homepage"><br>
-            <input placeholder="Phone Number" required type="text" name="phonenumber"class="formfield form-control homepage"><br>
+            <input placeholder="Phone Number" required type="tel" name="phonenumber"class="formfield form-control homepage"><br>
             <input type="hidden" name="utf8" value="✓">
           </div>
           <div class="applybutton">
@@ -204,7 +204,7 @@
                   <h2 id="basicinfo">Apply Now</h2>
                   <input placeholder="Full Name" required type="text" name="fullname" class="formfield form-control homepage"><br>
                   <input placeholder="Email" required type="email" name="email" class="formfield form-control homepage"><br>
-                  <input placeholder="Phone Number" required type="text" name="phonenumber"class="formfield form-control homepage"><br>
+                  <input placeholder="Phone Number" required type="tel" name="phonenumber"class="formfield form-control homepage"><br>
                   <input type="hidden" name="utf8" value="✓">
                 </div>
                 <div class="applybutton">

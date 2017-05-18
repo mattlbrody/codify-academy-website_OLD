@@ -5,7 +5,7 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHFWQQX"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-  
+
   <!-- KISSmetrics tracking snippet -->
   <script type="text/javascript">var _kmq = _kmq || [];
   var _kmk = _kmk || '9c27c877479ebee6d9bdc811c10d0918d4dda8c0';
@@ -197,16 +197,16 @@
   <section class="mobileform">
     <div class="container-fluid">
       <div class="applymobile">
-        <form id="homeform" method="post" action="https://formkeep.com/f/2bcf6d08341c">
+        <form id="homeform" class="cybrid-form" method="post" action="https://formkeep.com/f/2bcf6d08341c">
           <div class="row">
             <h2 id="basicinfo">Fill Out to Learn More</h2>
-            <input placeholder="Full Name" required type="text" name="fullname" class="formfield form-control homepage"><br>
-            <input placeholder="Email" required type="email" name="email" class="formfield form-control homepage"><br>
-            <input placeholder="Phone Number" required type="text" name="phonenumber"class="formfield form-control homepage"><br>
+            <input placeholder="Full Name" required type="text" name="fullname" class="formfield form-control homepage cybrid-form-name"><br>
+            <input placeholder="Email" required type="email" name="email" class="cybrid-form-email formfield form-control homepage"><br>
+            <input placeholder="Phone Number" required type="tel" name="phonenumber"class="cybrid-form-phone formfield form-control homepage"><br>
             <input type="hidden" name="utf8" value="✓">
           </div>
           <div class="applybutton">
-            <button id="submithome" name="Apply" type="submit" class="button large">Submit</button>
+            <button id="submithome" name="Apply" type="submit" class="cybrid-form-submit button large">Submit</button>
           </div>
         </form>
       </div>
@@ -230,12 +230,12 @@
 				<div class="servicebox text-center">
 					<div class="service-icon">
 						<div class="dm-icon-effect-1">
-              <form id="homeform" method="post" class="cybrid-form " action="https://formkeep.com/f/2bcf6d08341c">
+              <form id="homeform" method="post" class="cybrid-form" action="https://formkeep.com/f/2bcf6d08341c">
                 <div class="row">
                   <h2 id="basicinfo">Apply Now</h2>
                   <input placeholder="Full Name" required type="text" name="fullname" class="formfield form-control homepage cybrid-form-name"><br>
                   <input placeholder="Email" required type="email" name="email" class="cybrid-form-email formfield form-control homepage"><br>
-                  <input placeholder="Phone Number" required type="text" name="phonenumber"class="cybrid-form-phone formfield form-control homepage"><br>
+                  <input placeholder="Phone Number" required type="tel" name="phonenumber"class="cybrid-form-phone formfield form-control homepage"><br>
                   <input type="hidden" name="utf8" value="✓">
                 </div>
                 <div class="applybutton">
