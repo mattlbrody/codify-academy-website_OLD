@@ -202,7 +202,7 @@
             <h2 id="basicinfo">Fill Out to Learn More</h2>
             <input placeholder="Full Name" required type="text" name="fullname" class="formfield form-control homepage cybrid-form-name"><br>
             <input placeholder="Email" required type="email" name="email" class="cybrid-form-email formfield form-control homepage"><br>
-            <input placeholder="Phone Number" required type="tel" name="phonenumber"class="cybrid-form-phone formfield form-control homepage"><br>
+            <input placeholder="Phone Number" type="tel"  name="phonenumber"class="cybrid-form-phone formfield form-control homepage"><br>
             <input type="hidden" name="utf8" value="✓">
           </div>
           <div class="applybutton">
@@ -235,7 +235,7 @@
                   <h2 id="basicinfo">Apply Now</h2>
                   <input placeholder="Full Name" required type="text" name="fullname" class="formfield form-control homepage cybrid-form-name"><br>
                   <input placeholder="Email" required type="email" name="email" class="cybrid-form-email formfield form-control homepage"><br>
-                  <input placeholder="Phone Number" required type="tel" name="phonenumber"class="cybrid-form-phone formfield form-control homepage"><br>
+                  <input placeholder="Phone Number" type="number" required name="phonenumber"class="cybrid-form-phone formfield form-control homepage"><br>
                   <input type="hidden" name="utf8" value="✓">
                 </div>
                 <div class="applybutton">
