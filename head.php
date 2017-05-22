@@ -24,6 +24,8 @@
     <!-- Layer Slider -->
     <link rel="stylesheet" href="layerslider/css/layerslider.css" >
 
+    <link rel="stylesheet" href="css/main.css">
+
 
     <!-- Support for HTML5 -->
     <!--[if lt IE 9]>
@@ -34,7 +36,7 @@
     <!--[if lt IE 9]>
       <script src="assets/js/respond.min.js"></script>
     <![endif]-->
-    
+
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

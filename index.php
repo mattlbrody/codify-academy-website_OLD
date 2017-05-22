@@ -93,12 +93,12 @@
           GET HIRED WITH THE HELP OF A MENTOR
           </p>
 
-          <a href="http://bit.ly/1RmpwvX" target="_blank" class="button large ls-l thirdp" style="
+          <a href="http://bit.ly/1RmpwvX" target="_blank" class="schedulecolor button large ls-l thirdp" style="
           top:320px;
           left:100px;
           font-size:30px;
           font-weight: bold !important;
-          padding:12px 10px 5px 10px;"
+          padding:12px 10px 5px 10px;background-color: rgb(255, 115, 1);"
           data-ls="offsetxin:0;durationin:1500;delayin:1100;rotateyin:180;skewxin:60;transformoriginin:25% 50% 0;offsetxout:180;durationout:750;skewxout:60;">
           SCHEDULE CALL
           </a>
@@ -113,7 +113,7 @@
         <div class="col-xs-12 nopadding">
           <div class="mobilebgtop">
             <div class="centerbutton">
-            <a href="http://bit.ly/1RmpwvX" target="_blank"><button class="mobileapplytop">Schedule Call</button></a>
+            <a href="http://bit.ly/1RmpwvX" style="background-color: rgb(255, 115, 1);" target="_blank"><button class="schedulecolor mobileapplytop">Schedule Call</button></a>
             </div>
           </div>
         </div>
@@ -169,7 +169,7 @@
         <div class="col-xs-12 nopadding">
           <div class="beginnerswelcome">
             <div class="centerbutton">
-            <a href="http://bit.ly/1RmpwvX" target="_blank"><button class="mobileapplybegin">Schedule Call</button></a>
+            <a href="http://bit.ly/1RmpwvX" style="background-color: rgb(255, 115, 1);" target="_blank"><button class="schedulecolor mobileapplybegin">Schedule Call</button></a>
             </div>
           </div>
         </div>
@@ -197,16 +197,17 @@
   <section class="mobileform">
     <div class="container-fluid">
       <div class="applymobile">
-        <form id="homeform" class="cybrid-form" method="post" action="https://formkeep.com/f/2bcf6d08341c">
+        <form id="homeform" method="post" action="https://formkeep.com/f/2bcf6d08341c">
           <div class="row">
             <h2 id="basicinfo">Fill Out to Learn More</h2>
-            <input placeholder="Full Name" required type="text" name="fullname" class="formfield form-control homepage cybrid-form-name"><br>
-            <input placeholder="Email" required type="email" name="email" class="cybrid-form-email formfield form-control homepage"><br>
-            <input placeholder="Phone Number" type="tel"  name="phonenumber"class="cybrid-form-phone formfield form-control homepage"><br>
             <input type="hidden" name="utf8" value="✓">
+            <input placeholder="Full Name" type="text" name="fullname" class="formfield form-control homepage" required><br>
+            <input placeholder="Email" type="email" name="email" class="formfield form-control homepage" required><br>
+            <input placeholder="Phone Number" type="tel" name="phonenumber"class="formfield form-control homepage" required><br>
+            <input name="honey" type="text" hidden>
           </div>
           <div class="applybutton">
-            <button id="submithome" name="Apply" type="submit" class="cybrid-form-submit button large">Submit</button>
+            <button id="submithome" type="submit" class="button large">Submit</button>
           </div>
         </form>
       </div>
@@ -230,16 +231,17 @@
 				<div class="servicebox text-center">
 					<div class="service-icon">
 						<div class="dm-icon-effect-1">
-              <form id="homeform" method="post" class="cybrid-form" action="https://formkeep.com/f/2bcf6d08341c">
+              <form id="homeform" method="post" action="https://formkeep.com/f/2bcf6d08341c">
                 <div class="row">
                   <h2 id="basicinfo">Apply Now</h2>
-                  <input placeholder="Full Name" required type="text" name="fullname" class="formfield form-control homepage cybrid-form-name"><br>
-                  <input placeholder="Email" required type="email" name="email" class="cybrid-form-email formfield form-control homepage"><br>
-                  <input placeholder="Phone Number" type="number" required name="phonenumber"class="cybrid-form-phone formfield form-control homepage"><br>
                   <input type="hidden" name="utf8" value="✓">
+                  <input placeholder="Full Name" type="text" name="fullname" class="formfield form-control homepage" required><br>
+                  <input placeholder="Email" type="email" name="email" class="formfield form-control homepage" required><br>
+                  <input placeholder="Phone Number" type="number" name="phonenumber"class="formfield form-control homepage" required><br>
+                  <input name="honey" type="text" hidden>
                 </div>
                 <div class="applybutton">
-                  <button id="submithome" name="Apply" type="submit" class="cybrid-form-submit button large">Submit for Info</button>
+                  <button id="submithome" type="submit" class="button large">Submit for Info</button>
                 </div>
               </form>
 						</div>
@@ -326,7 +328,7 @@
       <div class="message text-center">
         <h2 class="big-title">Learn to build AMAZING <span>websites</span> & <span>web apps</span>!</h2>
         <p class="small-title">The part time program that teaches you how to become a front end developer in 16 weeks</p>
-        <a class="button large" href="http://bit.ly/1RmpwvX" target="_blank">Schedule Call</a>
+        <a class="schedulecolor button large" style="background-color: rgb(255, 115, 1);" href="http://bit.ly/1RmpwvX" target="_blank">Schedule Call</a>
       </div><!-- end message -->
     </div><!-- end container -->
   </section><!-- end section2 -->
