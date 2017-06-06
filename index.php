@@ -169,7 +169,7 @@
         <div class="col-xs-12 nopadding">
           <div class="beginnerswelcome">
             <div class="centerbutton">
-            <a href="http://bit.ly/1RmpwvX" style="background-color: rgb(255, 115, 1);" target="_blank"><button class="schedulecolor mobileapplybegin">Schedule Call</button></a>
+            <a href="http://bit.ly/1RmpwvX" class="begwelcome" style="background-color: rgb(255, 115, 1);" target="_blank"><button class="schedulecolor mobileapplybegin ">Schedule Call</button></a>
             </div>
           </div>
         </div>

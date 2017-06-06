@@ -1,3 +1,29 @@
-.schedulecolor {
+.centerbutton a {
+  top: 250px;
+  position: relative;
   background-color: rgb(255, 115, 1);
+}
+
+.centerbutton a.begwelcome {
+  top: 400px;
+}
+
+.centerbutton .schedulecolor {
+  background-color: rgb(255, 115, 1);
+  top:0;
+}
+
+@media (max-width: 353px) {
+  .centerbutton a {
+    top: 200px;
+  }
+  .centerbutton a.begwelcome {
+    top: 300px;
+  }
+}
+
+@media (max-width: 500px) {
+  .mobilebglogos  {
+    height:600px
+  }
 }
