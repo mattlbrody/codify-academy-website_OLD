@@ -95,7 +95,7 @@
 									<ul class="pricing-wrapper">
 										<li data-type="yearly" class="is-visible">
 											<header class="pricing-header">
-												<h3>Guaranteed Financing</h3>
+												<h3>Education Loan</h3>
 												<div class="price">
 													<span class="currency">$</span>
 													<span class="value">500</span>
@@ -104,13 +104,21 @@
 											</header>
 											<div class="pricing-body">
 												<ul class="pricing-features">
-													<li>24 Monthly Payments of $279</li>
-													<li>19.5% Interest</li>
-													<li><h2>$7218.25 Total Cost</h2></li>
+													<li>Monthly Payments starting from $136</li>
+													<li>starting at 8.9% Interest</li>
+													<li><h2><span style="font-weight: 100; font-size: 16px"> from </span>  $5989 Total Cost</h2></li>
 												</ul>
 											</div>
 											<footer class="pricing-footer">
-												<a class="select" href="http://bit.ly/1RmpwvX" target="_blank">Schedule a Call</a>
+												<!-- <a class="select" href="http://bit.ly/1RmpwvX" target="_blank">Schedule a Call</a> -->
+                        <a
+                          class="typeform-share link select"
+                          href="https://codifyacademy.typeform.com/to/tSkdsz"
+                          data-mode="2"
+                          target="_blank"
+                          >
+                          Claim your loan!
+                        </a>
 											</footer>
 										</li>
 									</ul>
