@@ -58,7 +58,7 @@
 												<ul class="pricing-features">
 													<li>$6000 Full Tuition</li>
 													<li>10% Discount</li>
-													<li><h2>$5400 Total Cost</h2></li>
+													<li><h2>$5,400 Total Cost</h2></li>
 												</ul>
 											</div>
 											<footer class="pricing-footer">
@@ -82,7 +82,7 @@
 												<ul class="pricing-features">
 													<li>4 Monthly Payments</li>
 													<li>$1000 Per Month</li>
-													<li><h2>$6000 Total Cost</h2></li>
+													<li><h2>$6,000 Total Cost</h2></li>
 												</ul>
 											</div>
 											<footer class="pricing-footer">
@@ -106,7 +106,7 @@
 												<ul class="pricing-features">
 													<li>Monthly Payments starting from $136</li>
 													<li>starting at 8.9% Interest</li>
-													<li><h2><span style="font-weight: 100; font-size: 16px"> from </span>  $5989 Total Cost</h2></li>
+													<li><h2><span style="font-weight: 100; font-size: 16px"> from </span>  $7,057 Total Cost</h2></li>
 												</ul>
 											</div>
 											<footer class="pricing-footer">
