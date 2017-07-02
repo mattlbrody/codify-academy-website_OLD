@@ -93,7 +93,7 @@
           GET HIRED WITH THE HELP OF A MENTOR
           </p>
 
-          <a href="http://bit.ly/1RmpwvX" target="_blank" class="schedulecolor button large ls-l thirdp" style="
+          <!-- <a href="http://bit.ly/1RmpwvX" target="_blank" class="schedulecolor button large ls-l thirdp" style="
           top:320px;
           left:100px;
           font-size:30px;
@@ -101,7 +101,23 @@
           padding:12px 10px 5px 10px;background-color: rgb(255, 115, 1);"
           data-ls="offsetxin:0;durationin:1500;delayin:1100;rotateyin:180;skewxin:60;transformoriginin:25% 50% 0;offsetxout:180;durationout:750;skewxout:60;">
           SCHEDULE CALL
+          </a> -->
+
+          <a
+            class="typeform-share link schedulecolor button large ls-l thirdp"
+            href="https://codifyacademy.typeform.com/to/tSkdsz"
+            data-mode="2"
+            target="_blank"
+            style="
+            top:320px;
+            left:100px;
+            font-size:30px;
+            font-weight: bold !important;
+            padding:12px 10px 5px 10px;background-color: rgb(255, 115, 1);"
+            >
+            Claim your loan!
           </a>
+
 				</div><!-- end first slide -->
 			</div><!-- layer slider -->
 		</div><!-- slider wrapper -->
@@ -113,7 +129,18 @@
         <div class="col-xs-12 nopadding">
           <div class="mobilebgtop">
             <div class="centerbutton">
-            <a href="http://bit.ly/1RmpwvX" style="background-color: rgb(255, 115, 1);" target="_blank"><button class="schedulecolor mobileapplytop">Schedule Call</button></a>
+
+                <a class="typeform-share link "
+                href="https://codifyacademy.typeform.com/to/tSkdsz"
+                data-mode="1"
+                target="_blank"
+                style="background-color: rgb(255, 115, 1)">
+                <button class="schedulecolor mobileapplytop" style="font-size: 24px">Claim your loan!</button>
+              </a>
+
+            <!-- <a href="http://bit.ly/1RmpwvX" style="background-color: rgb(255, 115, 1);" target="_blank">
+                  <button class="schedulecolor mobileapplytop">Schedule Call</button>
+                </a> -->
             </div>
           </div>
         </div>
