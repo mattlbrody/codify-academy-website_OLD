@@ -62,7 +62,7 @@
 												</ul>
 											</div>
 											<footer class="pricing-footer">
-												<a class="select" href="http://bit.ly/1RmpwvX" target="_blank">Schedule a Call</a>
+												<a class="select" href="http://bit.ly/2iDE54b" target="_blank">Schedule a Call</a>
 											</footer>
 										</li>
 									</ul>
@@ -86,7 +86,7 @@
 												</ul>
 											</div>
 											<footer class="pricing-footer">
-												<a class="select" href="http://bit.ly/1RmpwvX" target="_blank">Schedule a Call</a>
+												<a class="select" href="http://bit.ly/2iDE54b" target="_blank">Schedule a Call</a>
 											</footer>
 										</li>
 									</ul>
@@ -110,7 +110,7 @@
 												</ul>
 											</div>
 											<footer class="pricing-footer">
-												<!-- <a class="select" href="http://bit.ly/1RmpwvX" target="_blank">Schedule a Call</a> -->
+												<!-- <a class="select" href="http://bit.ly/2iDE54b" target="_blank">Schedule a Call</a> -->
                         <a
                           class="typeform-share link select"
                           href="https://codifyacademy.typeform.com/to/tSkdsz"
@@ -161,7 +161,7 @@
 	      					<h4>We are partnered with <a href="https://www.affirm.com/education/codifyacademy/" target="_blank">Affirm</a> and <a href="https://www.wefinance.co/codify_academy" target="_blank">WeFinance</a> to provide a financing option that is right for you!</h4>
 					        <div class="text-center">
 					        	<br>
-					        	<a href="http://bit.ly/1RmpwvX" target="_blank" class="button large">Schedule Call</a>
+					        	<a href="http://bit.ly/2iDE54b" target="_blank" class="button large">Schedule Call</a>
 					        </div>
 					    	<p class="text-center">Want to learn more? Check out our <br><a href="http://bobbrody.mybluemix.net/" target="_blank"> frequently asked questions.</a></p>
 						</div>
@@ -219,7 +219,7 @@
 												</ul>
 											</div>
 											<footer class="pricing-footer">
-												<a class="select" href="http://bit.ly/1RmpwvX" target="_blank">Schedule a Call</a>
+												<a class="select" href="http://bit.ly/2iDE54b" target="_blank">Schedule a Call</a>
 											</footer>
 										</li>
 									</ul>
@@ -243,7 +243,7 @@
 												</ul>
 											</div>
 											<footer class="pricing-footer">
-												<a class="select" href="http://bit.ly/1RmpwvX" target="_blank">Schedule a Call</a>
+												<a class="select" href="http://bit.ly/2iDE54b" target="_blank">Schedule a Call</a>
 											</footer>
 										</li>
 									</ul>

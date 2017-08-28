@@ -5,7 +5,7 @@ $message = $_POST['contactmessage'];
 
 $formcontent="From: $name \n Email: $email \n Message: $message";
 
-$recipient = 'admissions@codifyacademy.com'; //my email
+$recipient = 'sambrody@codifyacademy.com'; //my email
 
 // $subject = $_POST['Application'];
 $mailheader = "From: $email \r\n";

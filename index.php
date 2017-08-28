@@ -93,7 +93,7 @@
           GET HIRED WITH THE HELP OF A MENTOR
           </p>
 
-          <!-- <a href="http://bit.ly/1RmpwvX" target="_blank" class="schedulecolor button large ls-l thirdp" style="
+          <!-- <a href="http://bit.ly/2iDE54b" target="_blank" class="schedulecolor button large ls-l thirdp" style="
           top:320px;
           left:100px;
           font-size:30px;
@@ -138,7 +138,7 @@
                 <button class="schedulecolor mobileapplytop" style="font-size: 24px">Claim your loan!</button>
               </a>
 
-            <!-- <a href="http://bit.ly/1RmpwvX" style="background-color: rgb(255, 115, 1);" target="_blank">
+            <!-- <a href="http://bit.ly/2iDE54b" style="background-color: rgb(255, 115, 1);" target="_blank">
                   <button class="schedulecolor mobileapplytop">Schedule Call</button>
                 </a> -->
             </div>
@@ -196,7 +196,7 @@
         <div class="col-xs-12 nopadding">
           <div class="beginnerswelcome">
             <div class="centerbutton">
-            <a href="http://bit.ly/1RmpwvX" class="begwelcome" style="background-color: rgb(255, 115, 1);" target="_blank"><button class="schedulecolor mobileapplybegin ">Schedule Call</button></a>
+            <a href="http://bit.ly/2iDE54b" class="begwelcome" style="background-color: rgb(255, 115, 1);" target="_blank"><button class="schedulecolor mobileapplybegin ">Schedule Call</button></a>
             </div>
           </div>
         </div>
@@ -355,7 +355,7 @@
       <div class="message text-center">
         <h2 class="big-title">Learn to build AMAZING <span>websites</span> & <span>web apps</span>!</h2>
         <p class="small-title">The part time program that teaches you how to become a front end developer in 16 weeks</p>
-        <a class="schedulecolor button large" style="background-color: rgb(255, 115, 1);" href="http://bit.ly/1RmpwvX" target="_blank">Schedule Call</a>
+        <a class="schedulecolor button large" style="background-color: rgb(255, 115, 1);" href="http://bit.ly/2iDE54b" target="_blank">Schedule Call</a>
       </div><!-- end message -->
     </div><!-- end container -->
   </section><!-- end section2 -->
